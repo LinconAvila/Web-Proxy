@@ -7,5 +7,3 @@ app = create_app()
 if __name__ == "__main__":
     t = threading.Thread(target=start_tunnel_server, daemon=True)
     t.start()
-
-    app.run(port=5000, debug=True, use_reloader=False)

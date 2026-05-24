@@ -1,9 +1,7 @@
 {
     "bloqueados": [
-        "www.facebook.com",
         "www.instagram.com",
-        "www.x.com",
-        "www.youtube.com",
+        "x.com",
         "www.tiktok.com",
         "www.linkedin.com",
         "www.reddit.com",
@@ -15,6 +13,8 @@
         "www.discord.com",
         "www.tumblr.com",
         "www.vimeo.com",
-        "www.flickr.com"
+        "www.flickr.com",
+        "neverssl.com",
+        "eitc.org"
     ]
 }

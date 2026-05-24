@@ -1,0 +1,902 @@
+[
+  {
+    "timestamp": "2026-05-24T00:55:52.268176+00:00",
+    "url": "https://token.services.mozilla.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:52.413210+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:52.420480+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:52.422934+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:52.424786+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:52.426488+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:52.711483+00:00",
+    "url": "https://sync-1-us-west1-g.sync.services.mozilla.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:53.564232+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:53.567353+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.563554+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.691442+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.692943+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.694449+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.707047+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.718646+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.725379+00:00",
+    "url": "https://api.x.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.748158+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:54.898831+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.168676+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.172665+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.178257+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.182045+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.183797+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.185306+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.288213+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.391089+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.414093+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.415831+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.498324+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.501852+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.503835+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.514420+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.519683+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.603864+00:00",
+    "url": "https://abs.twimg.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:55.604948+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:56.328520+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:56.643490+00:00",
+    "url": "https://www.google.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:56.728415+00:00",
+    "url": "https://ads-api.x.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:57.692244+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:55:59.736972+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.485620+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.488105+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.525539+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.530822+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.534094+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.545490+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.558940+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.682251+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.756262+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.762503+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.781783+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.790202+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.805070+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.841640+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.851442+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:00.905919+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.127119+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.128902+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.137245+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.139241+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.141524+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.154523+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.157106+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.263930+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.276079+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.281900+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.287754+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:01.344899+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:02.517794+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:03.351510+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:03.450432+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:03.883196+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:04.071005+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:04.544820+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:08.024985+00:00",
+    "url": "https://claude.ai:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:08.253765+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:15.114767+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:15.189929+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:15.195827+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:30.107297+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:32.285655+00:00",
+    "url": "https://profile.accounts.firefox.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:41.430822+00:00",
+    "url": "https://claude.ai:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:56:54.567520+00:00",
+    "url": "https://claude.ai:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:57:00.072429+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:57:30.073116+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:57:44.793981+00:00",
+    "url": "https://claude.ai:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:57:50.504191+00:00",
+    "url": "https://mozilla-ohttp.fastly-edge.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:58:00.123389+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:58:00.131124+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:58:00.229345+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:58:00.233242+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:58:03.553469+00:00",
+    "url": "https://sync-1-us-west1-g.sync.services.mozilla.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:58:30.174881+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:58:45.324310+00:00",
+    "url": "https://claude.ai:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:59:00.125472+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:59:30.155952+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T00:59:38.180134+00:00",
+    "url": "https://translate.googleapis.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T00:59:47.880255+00:00",
+    "url": "https://claude.ai:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:00.068835+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:00.075731+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:00.088747+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:00.091668+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:11.991272+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:12.012756+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:12.016486+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:12.027394+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:14.152952+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.069767+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.072641+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.090365+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.093489+00:00",
+    "url": "https://ads-api.x.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.097709+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.109374+00:00",
+    "url": "https://api.x.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.116485+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.121295+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.136098+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.152162+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.548698+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.551739+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.571357+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.576029+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.579478+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.604299+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.727240+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.729854+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.796127+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.882404+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.884686+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.888452+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.894072+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.984272+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.995093+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:15.999558+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:16.245729+00:00",
+    "url": "https://abs.twimg.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:16.246020+00:00",
+    "url": "https://abs.twimg.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:16.657420+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:17.073017+00:00",
+    "url": "https://profile.accounts.firefox.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:17.083977+00:00",
+    "url": "https://sync-1-us-west1-g.sync.services.mozilla.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:18.091636+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:21.006171+00:00",
+    "url": "https://mozilla-ohttp.fastly-edge.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:21.234021+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:22.332608+00:00",
+    "url": "https://ads-img.mozilla.org:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:22.332703+00:00",
+    "url": "https://ads-img.mozilla.org:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:23.503788+00:00",
+    "url": "https://www.instagram.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:23.574945+00:00",
+    "url": "https://incoming.telemetry.mozilla.org:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:24.707235+00:00",
+    "url": "https://www.instagram.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:27.029082+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:27.040968+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:27.050923+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:28.598079+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:29.477307+00:00",
+    "url": "https://www.youtube.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:30.382850+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:30.447208+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:31.236972+00:00",
+    "url": "https://rr1---sn-vnpgoxucg-2xus.googlevideo.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:31.262103+00:00",
+    "url": "https://i.ytimg.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:32.924226+00:00",
+    "url": "https://returnyoutubedislikeapi.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:33.877827+00:00",
+    "url": "https://yt3.ggpht.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:34.354703+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:36.409393+00:00",
+    "url": "https://accounts.youtube.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:37.907484+00:00",
+    "url": "https://rr2---sn-vnpgoxucg-2xus.googlevideo.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:45.533835+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:00:48.997125+00:00",
+    "url": "http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:08.228155+00:00",
+    "url": "http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.012591+00:00",
+    "url": "http://eitc.org/portal_css/Old%20Plone%203%20traseirostom%20Theme/print-cachekey2064.css",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.124088+00:00",
+    "url": "http://eitc.org/portal_javascripts/Old%20Plone%203%20traseirostom%20Theme/resourcekukit-devel-cachekey5406.js",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.238035+00:00",
+    "url": "http://eitc.org/portal_css/Old%20Plone%203%20traseirostom%20Theme/base-cachekey4398.css",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.313957+00:00",
+    "url": "http://eitc.org/portal_javascripts/Old%20Plone%203%20traseirostom%20Theme/kupunoi18n-cachekey0566.js",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.405361+00:00",
+    "url": "http://eitc.org/portal_css/Old%20Plone%203%20traseirostom%20Theme/resourcetinymce.stylesheetstinymce-cachekey1988.css",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.416667+00:00",
+    "url": "http://eitc.org/portal_css/Old%20Plone%203%20traseirostom%20Theme/nuplone-cachekey8946.css",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.478163+00:00",
+    "url": "http://eitc.org/portal_javascripts/Old%20Plone%203%20traseirostom%20Theme/resourcekukit-cachekey6247.js",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:09.483291+00:00",
+    "url": "http://eitc.org/portal_javascripts/Old%20Plone%203%20traseirostom%20Theme/jquery-cachekey2706.js",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:10.122174+00:00",
+    "url": "http://eitc.org/portal_javascripts/Old%20Plone%203%20traseirostom%20Theme/resourcekukit-cachekey6247.js",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:10.744989+00:00",
+    "url": "http://eitc.org/portal_javascripts/Old%20Plone%203%20traseirostom%20Theme/resourcekukit-devel-cachekey5406.js",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:11.690587+00:00",
+    "url": "http://eitc.org/portal_javascripts/Old%20Plone%203%20traseirostom%20Theme/kupunoi18n-cachekey0566.js",
+    "action": "filtrado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:12.508172+00:00",
+    "url": "http://eitc.org/research-opportunities/photos6/http_040523a/image_large",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:15.878810+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:21.940308+00:00",
+    "url": "https://www.google.com:443",
+    "action": "permitido"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:37.588492+00:00",
+    "url": "http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:45.833501+00:00",
+    "url": "https://x.com:443",
+    "action": "bloqueado"
+  },
+  {
+    "timestamp": "2026-05-24T01:01:46.929320+00:00",
+    "url": "https://www.youtube.com:443",
+    "action": "permitido"
+  }
+]
