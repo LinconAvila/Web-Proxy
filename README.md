@@ -30,7 +30,15 @@ A alternativa seria trabalhar diretamente com sockets TCP, o que daria mais cont
 
 ## Instalação e Execução
 
-**1. Criar e ativar o ambiente virtual (Linux/WSL):**
+**1. Criar e ativar o ambiente virtual:**
+
+No Windows PowerShell:
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+```
+
+No Linux/WSL:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -42,6 +50,18 @@ pip install -r requirements.txt
 ```
 
 **3. Iniciar o servidor:**
+Se você estiver na pasta do repositório pai, entre primeiro em `Web-Proxy`:
+
+```powershell
+cd Web-Proxy
+```
+
+No Windows PowerShell:
+```powershell
+python app.py
+```
+
+No Linux/WSL:
 ```bash
 python3 app.py
 ```
